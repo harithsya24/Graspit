@@ -1,0 +1,13 @@
+# AI Video Generator Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+moviepy>=1.0.3
+google-cloud-texttospeech>=2.0.0
+pillow>=9.0.0
+requests>=2.25.0
+python-dotenv>=0.19.0
+
+# Optional dependencies for better performance
+imageio-ffmpeg>=0.4.0  # For MoviePy video processing
+numpy>=1.19.0  # Required by MoviePy
