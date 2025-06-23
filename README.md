@@ -74,8 +74,8 @@ DEFAULT_SCENE_DURATION=4.0
 From your terminal or Google Colab, run:
 
  ⁠```bash
+ 
 python main.py
-
 ```
 When prompted, type your concept (e.g., `IP Address`, `Photosynthesis`, `Blockchain`).
 
