@@ -1,4 +1,4 @@
-# 🎓 GraspIt: AI Educational Video Generator
+# 🎓 GraspIt: Type It, Watch It, Learn It
 
 **GraspIt** is a revolutionary tool that turns *any educational concept* into a complete explainer video — all in under 2 minutes. Just enter a topic like **"IP Address"**, and watch as GraspIt generates a 5-scene educational video with narration, visuals, and smooth transitions, fully automated using cutting-edge AI.
 
