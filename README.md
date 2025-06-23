@@ -75,6 +75,7 @@ From your terminal or Google Colab, run:
 
  ⁠```bash
 python main.py
+
 ```
 When prompted, type your concept (e.g., `IP Address`, `Photosynthesis`, `Blockchain`).
 
@@ -171,6 +172,7 @@ graspit/
 ├── final_explainer_video.mp4
 ├── scene_*.mp3 / .png (temporary files)
 └── README.md
+
 ```
 
 ---
