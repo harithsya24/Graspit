@@ -57,7 +57,6 @@ You’ll need API keys and credentials from the following platforms:
 Create a `.env` file in your project root:
 
 ```bash
- ⁠env
 GOOGLE_APPLICATION_CREDENTIALS=/path/to/service-account.json
 OPENROUTER_API_KEY=your_openrouter_key
 DEEPAI_API_KEY=your_deepai_key
@@ -65,6 +64,7 @@ VIDEO_WIDTH=900
 VIDEO_HEIGHT=600
 VIDEO_FPS=24
 DEFAULT_SCENE_DURATION=4.0
+
 ```
 
 ⁠ ---
@@ -166,6 +166,7 @@ License: [MIT License](LICENSE)
 ## 📁 Project Structure
 
 ```bash
+
 graspit/
 ├── main.py
 ├── .env
