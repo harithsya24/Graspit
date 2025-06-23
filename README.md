@@ -24,14 +24,9 @@
 
 Install all required packages using `pip`:
 
- ⁠bash
-pip install google-cloud-texttospeech
-pip install moviepy
-pip install pillow
-pip install requests
-pip install python-dotenv
-⁠ `
-
+```bash
+pip install google-cloud-texttospeech moviepy pillow requests python-dotenv
+'''
 ---
 
 ## 🔐 API Setup
