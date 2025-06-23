@@ -155,8 +155,9 @@ GraspIt will:
 
 ## 🧑‍💻 Author
 
-**Amrutha Kanakatte Ravishankar**
-**Sneha Venkatesh**
+**Amrutha Kanakatte Ravishankar(amruthakravishankar@outlook.com)**
+
+**Sneha Venkatesh(Svenkate1@stevens.edu**
 Version: `1.0`
 License: [MIT License](LICENSE)
 
