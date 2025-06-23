@@ -26,7 +26,7 @@ Install all required packages using `pip`:
 
 ```bash
 pip install google-cloud-texttospeech moviepy pillow requests python-dotenv
-'''
+```
 ---
 
 ## 🔐 API Setup
@@ -56,6 +56,7 @@ You’ll need API keys and credentials from the following platforms:
 
 Create a `.env` file in your project root:
 
+```bash
  ⁠env
 GOOGLE_APPLICATION_CREDENTIALS=/path/to/service-account.json
 OPENROUTER_API_KEY=your_openrouter_key
@@ -64,7 +65,7 @@ VIDEO_WIDTH=900
 VIDEO_HEIGHT=600
 VIDEO_FPS=24
 DEFAULT_SCENE_DURATION=4.0
-
+```
 
 ⁠ ---
 
@@ -72,10 +73,9 @@ DEFAULT_SCENE_DURATION=4.0
 
 From your terminal or Google Colab, run:
 
- ⁠bash
+ ⁠```bash
 python main.py
-
-
+```
 When prompted, type your concept (e.g., `IP Address`, `Photosynthesis`, `Blockchain`).
 
 GraspIt will:
@@ -155,6 +155,7 @@ GraspIt will:
 
 ## 🧑‍💻 Author
 
+**Amrutha Kanakatte Ravishankar**
 **Sneha Venkatesh**
 Version: `1.0`
 License: [MIT License](LICENSE)
@@ -163,14 +164,14 @@ License: [MIT License](LICENSE)
 
 ## 📁 Project Structure
 
-
+```bash
 graspit/
 ├── main.py
 ├── .env
 ├── final_explainer_video.mp4
 ├── scene_*.mp3 / .png (temporary files)
 └── README.md
-
+```
 
 ---
 
